@@ -1,0 +1,4 @@
+.h file gives you properties, what methods you can call outside of it
+.m is how you implement the .h
+
+
